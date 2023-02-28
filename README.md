@@ -2,6 +2,7 @@
 Generating random passwords
 
 #Import a in built pyhton library called random
+
   import random
 
 #Create an initial message for the user
